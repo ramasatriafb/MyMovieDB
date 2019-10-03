@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">My MovieDB</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="setting">Pengaturan</string>
+
+    <string name="poster">Poster</string>
+    <string name="title_movie">Judul</string>
+    <string name="releaseDate">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="synopsis">Ringkasan</string>
+    <string name="ErrorLoading">Terjadi Kesalahan Dalam Memuat Data</string>
+    <string name="Loading">Mencoba Mendapatkan Data</string>
+    <string name="Overview">Belum Terdapat Data Sinopsis</string>
+
+    <string name="Favourite">Sukai</string>
+    <string name="DisabledFav">Disukai</string>
+    <string name="EmptyDataFavMovie">Data Film Favorit Belum Tersedia</string>
+
+    <string name="DeleteFavourite">Hapus Kesukaan</string>
+    <string name="DoneMovie">Berhasil Menyimpan Film Favorit</string>
+    <string name="DoneDeleteMovie">Berhasil Menghapus Film Favorit</string>
+    <string name="FavouriteMovies">Film</string>
+    <string name="FavouriteTvs">Tv</string>
+    <string name="EmptyDataFavTv">Data Acara TV Favorit Belum Tersedia</string>
+    <string name="DoneTv">Berhasil Menyimpan Acara Tv Favorit</string>
+
+    <string name="SearchMovie">Film</string>
+    <string name="SearchTvShow">Acara TV</string>
+
+    <string name="activity_search_movie">Pencarian Film</string>
+    <string name="activity_search_tv">Pencarian Acara TV</string>
+
+
+    <string name="progress_loading">Sedang Memuat</string>
+    <string name="not_found_movie">Film Tidak Ditemukan</string>
+    <string name="lookingformovie">Cari Film Anime Mu</string>
+    <string name="not_found_tv">Acara TV Tidak Ditemukan</string>
+    <string name="lookingfortv">Cari Acara TV Anime Mu</string>
+
+    <string name="settingLanguage">Pengaturan Bahasa</string>
+
+    <string name="changeLanguage">Ganti Bahasa</string>
+
+    <string name="appwidget_text">Film Anime Favorit</string>
+    <string name="empty_text">Tidak Ada Data</string>
+
+    <string name="Alarm">Alarm</string>
+
+    <string name="notif">Jangan Lupa Cek Anime Favorit Kamu Hari Ini</string>
+    <string name="reminder">Pengaturan Pengingat</string>
+    <string name="dailyAlarm">Alarm Harian</string>
+    <string name="notifTodayMovie">Pengingat Rilis Film</string>
+
+
+    <string name="today">Hari Ini</string>
+    <string name="release">Sudah Mulai Tayang</string>
+    <string name="setUpNotif">Pengingat Rilis Film diset</string>
+    <string name="cancel">Alarm berulang dinonaktifkan</string>
+    <string name="cancelNotif">Pemberitahuan Film dinonaktifkan</string>
+</resources>

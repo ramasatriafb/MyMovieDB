@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:textColor="@color/ColorSynopsys"
+        android:title="@string/settingLanguage">
+        <Preference
+            android:key="@string/changeLanguage"
+            android:summary="@string/changeLanguage"
+            android:title="@string/changeLanguage" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/reminder">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/dailyAlarm"
+            android:summary="@string/dailyAlarm"
+            android:title="@string/dailyAlarm" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/notifTodayMovie"
+            android:title="@string/notifTodayMovie"
+            android:summary="@string/notifTodayMovie"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
